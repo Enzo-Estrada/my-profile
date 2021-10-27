@@ -1,0 +1,88 @@
+div{
+	text-align: center;
+}
+body {
+	background-color: #48B8D0;
+	color: rgb(50, 50, 50);
+	font-family: 'Zen Antique Soft', serif;
+	font-size: 17px;
+	text-align: center;
+}
+
+}
+h1 , h2 , h3{
+	font-family: Courier;
+}
+h1 {
+	Color: red;
+	font-family:'Zen Antique Soft', serif;;
+	font-size: 32px;
+	text-align: center;
+}
+h2 {
+	color: red;
+	font-family:'Zen Antique Soft', serif;;
+	font-size: 24px;
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+	color: red;
+} 
+a:hover {
+	color: black ;
+}
+
+
+.card-introduction{
+	background: #DEE7E7;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 15px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 30px;
+
+
+}
+
+.card-management-commercial {
+	background: #DEE7E7;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 15px;
+	background color: red;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 30px;
+
+}
+.card-trip {
+	background: #DEE7E7;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 15px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 30px;
+
+
+}
+
+.card-social-network {
+	border: 2px solid black;
+	margin: 10px;
+	padding: 15px;
+	
+}
+.img-circle{
+	border-radius: 280px;
+}
+
+.container {
+	width:  700px;
+	margin:  0 auto;
+	background: #48B8D0;
+}
+.btn-blue{
+	background-color: #BFC0C0;
+	padding: 15px,20px ;
+	border-radius: 4px;
+}
